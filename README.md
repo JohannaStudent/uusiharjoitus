@@ -1,0 +1,2 @@
+# uusiharjoitus
+Uusi Terraform harjoitus
